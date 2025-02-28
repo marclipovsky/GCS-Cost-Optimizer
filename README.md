@@ -124,5 +124,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ---
 
 <p align="center">
-  <i>Developed with ❤️ by <a href="https://github.com/yourusername">Your Name</a></i>
+  <i>Developed with ❤️ by <a href="https://github.com/marclipovsky">Marc Lipovsky</a></i>
 </p>
